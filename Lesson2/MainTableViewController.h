@@ -9,6 +9,8 @@
 #import "LoadingTableViewController.h"
 
 @interface MainTableViewController : LoadingTableViewController
-
+@property (nonatomic) NSMutableArray *items;
+@property BOOL isLoading;
+@property BOOL didFail;
 @end
 
