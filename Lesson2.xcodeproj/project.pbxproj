@@ -7,17 +7,41 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1430FD561BD6802D004EE226 /* MyTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1430FD551BD6802D004EE226 /* MyTabBarController.m */; settings = {ASSET_TAGS = (); }; };
+		1439C0BA1BD44E5D002EB02F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1439C0B91BD44E5D002EB02F /* Main.storyboard */; settings = {ASSET_TAGS = (); }; };
+		1439C0BD1BD45059002EB02F /* FirstVCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 1439C0BC1BD45059002EB02F /* FirstVCViewController.m */; settings = {ASSET_TAGS = (); }; };
+		1439C0C01BD45083002EB02F /* FirstVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1439C0BF1BD45083002EB02F /* FirstVC.m */; settings = {ASSET_TAGS = (); }; };
+		1439C0C31BD45091002EB02F /* SecondVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1439C0C21BD45091002EB02F /* SecondVC.m */; settings = {ASSET_TAGS = (); }; };
+		1439C0C61BD4509B002EB02F /* ThirdVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 1439C0C51BD4509B002EB02F /* ThirdVC.m */; settings = {ASSET_TAGS = (); }; };
+		14CF56011BD445BE0007A664 /* MyPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 14CF56001BD445BE0007A664 /* MyPageViewController.m */; settings = {ASSET_TAGS = (); }; };
+		14EEB74F1BD5896D00EB1CFD /* LoadingTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 14EEB74D1BD5896D00EB1CFD /* LoadingTableViewCell.m */; settings = {ASSET_TAGS = (); }; };
+		14EEB7501BD5896D00EB1CFD /* LoadingTableViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 14EEB74E1BD5896D00EB1CFD /* LoadingTableViewCell.xib */; settings = {ASSET_TAGS = (); }; };
 		AA02F7A91BBD183300D2D2EB /* MyCollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AA02F7A81BBD183300D2D2EB /* MyCollectionViewController.m */; settings = {ASSET_TAGS = (); }; };
 		AACFCD331BB6063900483585 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = AACFCD321BB6063900483585 /* main.m */; };
 		AACFCD361BB6063900483585 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AACFCD351BB6063900483585 /* AppDelegate.m */; };
 		AACFCD391BB6063900483585 /* MainTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AACFCD381BB6063900483585 /* MainTableViewController.m */; };
-		AACFCD3C1BB6063900483585 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AACFCD3A1BB6063900483585 /* Main.storyboard */; };
 		AACFCD3E1BB6063900483585 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AACFCD3D1BB6063900483585 /* Assets.xcassets */; };
 		AACFCD411BB6063900483585 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AACFCD3F1BB6063900483585 /* LaunchScreen.storyboard */; };
 		AACFCD4A1BB6069100483585 /* LoadingTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AACFCD491BB6069100483585 /* LoadingTableViewController.m */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1430FD541BD6802D004EE226 /* MyTabBarController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyTabBarController.h; sourceTree = "<group>"; };
+		1430FD551BD6802D004EE226 /* MyTabBarController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyTabBarController.m; sourceTree = "<group>"; };
+		1439C0B91BD44E5D002EB02F /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		1439C0BB1BD45059002EB02F /* FirstVCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstVCViewController.h; sourceTree = "<group>"; };
+		1439C0BC1BD45059002EB02F /* FirstVCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstVCViewController.m; sourceTree = "<group>"; };
+		1439C0BE1BD45083002EB02F /* FirstVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FirstVC.h; sourceTree = "<group>"; };
+		1439C0BF1BD45083002EB02F /* FirstVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FirstVC.m; sourceTree = "<group>"; };
+		1439C0C11BD45091002EB02F /* SecondVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SecondVC.h; sourceTree = "<group>"; };
+		1439C0C21BD45091002EB02F /* SecondVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SecondVC.m; sourceTree = "<group>"; };
+		1439C0C41BD4509B002EB02F /* ThirdVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThirdVC.h; sourceTree = "<group>"; };
+		1439C0C51BD4509B002EB02F /* ThirdVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThirdVC.m; sourceTree = "<group>"; };
+		14CF55FF1BD445BE0007A664 /* MyPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyPageViewController.h; sourceTree = "<group>"; };
+		14CF56001BD445BE0007A664 /* MyPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyPageViewController.m; sourceTree = "<group>"; };
+		14EEB74C1BD5896D00EB1CFD /* LoadingTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LoadingTableViewCell.h; sourceTree = "<group>"; };
+		14EEB74D1BD5896D00EB1CFD /* LoadingTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LoadingTableViewCell.m; sourceTree = "<group>"; };
+		14EEB74E1BD5896D00EB1CFD /* LoadingTableViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoadingTableViewCell.xib; sourceTree = "<group>"; };
 		AA02F7A71BBD183300D2D2EB /* MyCollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyCollectionViewController.h; sourceTree = "<group>"; };
 		AA02F7A81BBD183300D2D2EB /* MyCollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyCollectionViewController.m; sourceTree = "<group>"; };
 		AACFCD2E1BB6063900483585 /* Lesson2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lesson2.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -26,7 +50,6 @@
 		AACFCD351BB6063900483585 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		AACFCD371BB6063900483585 /* MainTableViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = MainTableViewController.h; sourceTree = "<group>"; };
 		AACFCD381BB6063900483585 /* MainTableViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MainTableViewController.m; sourceTree = "<group>"; };
-		AACFCD3B1BB6063900483585 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AACFCD3D1BB6063900483585 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AACFCD401BB6063900483585 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AACFCD421BB6063900483585 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -64,7 +87,7 @@
 		AACFCD301BB6063900483585 /* Lesson2 */ = {
 			isa = PBXGroup;
 			children = (
-				AACFCD3A1BB6063900483585 /* Main.storyboard */,
+				1439C0B91BD44E5D002EB02F /* Main.storyboard */,
 				AACFCD481BB6069100483585 /* LoadingTableViewController.h */,
 				AACFCD491BB6069100483585 /* LoadingTableViewController.m */,
 				AACFCD371BB6063900483585 /* MainTableViewController.h */,
@@ -72,6 +95,19 @@
 				AA02F7A71BBD183300D2D2EB /* MyCollectionViewController.h */,
 				AA02F7A81BBD183300D2D2EB /* MyCollectionViewController.m */,
 				AACFCD311BB6063900483585 /* Supporting Files */,
+				14CF55FF1BD445BE0007A664 /* MyPageViewController.h */,
+				14CF56001BD445BE0007A664 /* MyPageViewController.m */,
+				1439C0BE1BD45083002EB02F /* FirstVC.h */,
+				1439C0C11BD45091002EB02F /* SecondVC.h */,
+				1439C0C21BD45091002EB02F /* SecondVC.m */,
+				1439C0C41BD4509B002EB02F /* ThirdVC.h */,
+				1439C0C51BD4509B002EB02F /* ThirdVC.m */,
+				1439C0BF1BD45083002EB02F /* FirstVC.m */,
+				14EEB74C1BD5896D00EB1CFD /* LoadingTableViewCell.h */,
+				14EEB74D1BD5896D00EB1CFD /* LoadingTableViewCell.m */,
+				14EEB74E1BD5896D00EB1CFD /* LoadingTableViewCell.xib */,
+				1430FD541BD6802D004EE226 /* MyTabBarController.h */,
+				1430FD551BD6802D004EE226 /* MyTabBarController.m */,
 			);
 			path = Lesson2;
 			sourceTree = "<group>";
@@ -85,6 +121,8 @@
 				AACFCD341BB6063900483585 /* AppDelegate.h */,
 				AACFCD351BB6063900483585 /* AppDelegate.m */,
 				AACFCD321BB6063900483585 /* main.m */,
+				1439C0BB1BD45059002EB02F /* FirstVCViewController.h */,
+				1439C0BC1BD45059002EB02F /* FirstVCViewController.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -120,6 +158,7 @@
 				TargetAttributes = {
 					AACFCD2D1BB6063900483585 = {
 						CreatedOnToolsVersion = 7.0;
+						DevelopmentTeam = 83G85N9ATU;
 					};
 				};
 			};
@@ -146,9 +185,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1439C0BA1BD44E5D002EB02F /* Main.storyboard in Resources */,
 				AACFCD411BB6063900483585 /* LaunchScreen.storyboard in Resources */,
+				14EEB7501BD5896D00EB1CFD /* LoadingTableViewCell.xib in Resources */,
 				AACFCD3E1BB6063900483585 /* Assets.xcassets in Resources */,
-				AACFCD3C1BB6063900483585 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -160,9 +200,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				AACFCD4A1BB6069100483585 /* LoadingTableViewController.m in Sources */,
+				14EEB74F1BD5896D00EB1CFD /* LoadingTableViewCell.m in Sources */,
+				1439C0BD1BD45059002EB02F /* FirstVCViewController.m in Sources */,
+				1439C0C61BD4509B002EB02F /* ThirdVC.m in Sources */,
 				AA02F7A91BBD183300D2D2EB /* MyCollectionViewController.m in Sources */,
+				1430FD561BD6802D004EE226 /* MyTabBarController.m in Sources */,
 				AACFCD391BB6063900483585 /* MainTableViewController.m in Sources */,
+				14CF56011BD445BE0007A664 /* MyPageViewController.m in Sources */,
+				1439C0C01BD45083002EB02F /* FirstVC.m in Sources */,
 				AACFCD361BB6063900483585 /* AppDelegate.m in Sources */,
+				1439C0C31BD45091002EB02F /* SecondVC.m in Sources */,
 				AACFCD331BB6063900483585 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -170,14 +217,6 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		AACFCD3A1BB6063900483585 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				AACFCD3B1BB6063900483585 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		AACFCD3F1BB6063900483585 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
@@ -275,10 +314,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Lesson2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ru.azatalmeev.Lesson2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -286,10 +328,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = Lesson2/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ru.azatalmeev.Lesson2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
